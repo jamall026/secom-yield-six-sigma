@@ -10,7 +10,7 @@ A semiconductor fab records 590 sensor readings for every unit it produces. Of 1
 
 ## Project roadmap
 
-- [ ] **Define:** project charter, scope, and business case
+- [x] **Define:** [project charter](docs/1_define/charter.md) and [SIPOC](docs/1_define/sipoc.md)
 - [ ] **Measure:** data quality check and baseline yield
 - [ ] **Analyze:** identify the signals linked to failures
 - [ ] **Improve:** early-warning model and recommendations
